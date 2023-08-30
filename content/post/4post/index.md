@@ -8,10 +8,10 @@ summary: Что такое язык разметки Markdown и для чего
 projects: []
 
 # Date published
-date: 2023-08-17
+date: 2023-08-18
 
 # Date updated
-lastmod: '2023-08-17T00:00:00Z'
+lastmod: '2023-08-18T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
