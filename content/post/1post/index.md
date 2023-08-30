@@ -1,5 +1,5 @@
 ---
-title: День 1
+title: День 1.
 
 # Summary for listings and search engines
 summary: Расскажу, какие цветы хорошо подходят для дачи и немного про свою поездку на цветочную базу.
