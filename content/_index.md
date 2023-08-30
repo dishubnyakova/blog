@@ -18,7 +18,7 @@ sections:
       items:
         - name: Floristy
           description: 80%
-          icon: flower
+          icon: leaf
           icon_pack: fas
         - name: Ukulele
           description: 60%
