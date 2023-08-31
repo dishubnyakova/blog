@@ -51,20 +51,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: o
-    icon_pack: fas
+  - icon: orcid
+    icon_pack: ai
     link: https://orcid.org/0009-0002-2713-3949
-  - icon: m
-    icon_pack: fas
+  - icon: mendeley
+    icon_pack: ai
     link: https://www.mendeley.com/
-  - icon: r
-    icon_pack: fas
+  - icon: researchgate
+    icon_pack: ai
     link: https://www.researchgate.net/profile/Daria-Shubnyakova
-  - icon: a
-    icon_pack: fas
+  - icon: academia
+    icon_pack: ai
     link: https://independent.academia.edu/DariaShubnyakova
-  - icon: x
-    icon_pack: fas
+  - icon: arxiv
+    icon_pack: ai
     link: https://arxiv.org/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
