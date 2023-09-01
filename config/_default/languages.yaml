@@ -6,17 +6,26 @@
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-# ru:
-   #languageCode: ru-ru
-  #contentDir: content/ru
-  #title: Дарья Шубнякова
-  #params:
-    #description: Дарья Шубнякова -- вечная чтудентка, которая все еще пытается получить диплом. Она очень умная и смешная, но это только ее мнение.
-  #menu:
-   # main:
-    #  - name: Обо мне
-     #   url: '#about'
-      #  weight: 10
+ru:
+  languageCode: "ru-ru"
+  contentDir: "content/ru"
+  menu:
+    main:
+      - name: Обо мне
+        url: '#about'
+        weight: 10
+      - name: Посты
+        url: '#posts'
+        weight: 20
+      - name: Проекты
+        url: '#projects'
+        weight: 30
+      - name: Контакты
+        url: '#contact'
+        weight: 60
+      - name: Биография
+        url: '#biography'
+        weight: 60
