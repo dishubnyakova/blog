@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Daria Shubnyakova
+title: Дарья Шубнякова
 
 # Full name (for SEO)
-first_name: Daria
-last_name: Shubnyakova
+first_name: Дарья
+last_name: Шубнякова
 
 # Status emoji
 status:
@@ -14,33 +14,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: Студентка
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: RUDN University
+  - name: РУДН
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm still trying
+bio: Я все еще пытаюсь
 
 # Interests to show in About widget
 interests:
-  - Moonlight Walks
-  - Floristy
-  - Studying foreign languages
+  - Прогулки под луной
+  - Флористика
+  - Изучение иностранных языков
 
 # Education to show in About widget
 education:
   courses:
-    - course: Marketing
-      institution: RANEPA
+    - course: Маркетинг
+      institution: РАНХиГС
       year: 2018
-    - course: Teaching German and English
-      institution: MPGU
+    - course: Преподавание немецкого и английского языков
+      institution: МПГУ
       year: 2019
-    - course: Computer Science
-      institution: RUDN
+    - course: Компьютерные и информационные науки
+      institution: РУДН
       year: 2022
 
 # Social/Academic Networking
@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Daria Shubnyakova is an eternal student. She's still trying to get a diploma. She's very funny and clever, but that's only her opinion.
+Дарья Шубнякова -- вечная студентка, которая все еще пытается получить диплом. Она очень умная и веселая, но это только ее мнение.
 {style="text-align: justify;"}

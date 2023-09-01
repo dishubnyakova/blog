@@ -14,23 +14,23 @@ sections:
       username: admin
   - block: features
     content:
-      title: Skills
+      title: Навыки
       items:
-        - name: Floristy
+        - name: Флористика
           description: 80%
           icon: leaf
           icon_pack: fas
-        - name: Ukulele
+        - name: Укулеле
           description: 60%
           icon: guitar
           icon_pack: fas
-        - name: Programming
+        - name: Программирование
           description: 20%
           icon: computer
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Опыт
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -40,18 +40,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Florist
-          company: Self-employed
-          location: Moscow
+        - title: Флористка
+          company: Самозанятая
+          location: Москва
           date_start: '2020-05-04'
           date_end: ''
-          description: Collecting bouquets and selling them
+          description: Собираю и продаю букеты
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: Достижения
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -74,7 +74,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Последние посты
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -101,7 +101,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Проекты
       filters:
         folders:
           - project
@@ -113,11 +113,11 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
+        - name: Все
           tag: '*'
-        - name: Deep Learning
+        - name: Глубокое изучение
           tag: Deep Learning
-        - name: Other
+        - name: Другие
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -128,22 +128,22 @@ sections:
  
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Популярные темы
     design:
       columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Контакты
       subtitle:
       text: |-
         
       # Contact (add or remove contact options as necessary)
       
       address:
-        city: Moscow
-        region: Moscow
-        country: Russia
+        city: Москва
+        region: Москва
+        country: Россия
         country_code: RU
       # Automatically link email and phone or display as text?
       autolink: true
