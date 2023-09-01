@@ -14,4 +14,4 @@ external_link: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 ---
-![](example/featured.jpg)
+![](example/featured.png)
