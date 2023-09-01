@@ -1,8 +1,8 @@
 ---
-title: Язык программирования Python.
+title: Python.
 
 # Summary for listings and search engines
-summary: Что такое Python и в чем его преимущества?
+summary: What is Python and which advantages has it?
 
 # Link this post with a project
 projects: []
